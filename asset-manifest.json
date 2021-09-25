@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/Porfolio_React/static/css/main.6e979053.chunk.css",
-    "main.js": "/Porfolio_React/static/js/main.d03baf29.chunk.js",
-    "main.js.map": "/Porfolio_React/static/js/main.d03baf29.chunk.js.map",
-    "runtime-main.js": "/Porfolio_React/static/js/runtime-main.e4a4b102.js",
-    "runtime-main.js.map": "/Porfolio_React/static/js/runtime-main.e4a4b102.js.map",
-    "static/js/2.3f342446.chunk.js": "/Porfolio_React/static/js/2.3f342446.chunk.js",
-    "static/js/2.3f342446.chunk.js.map": "/Porfolio_React/static/js/2.3f342446.chunk.js.map",
-    "static/js/3.8611b501.chunk.js": "/Porfolio_React/static/js/3.8611b501.chunk.js",
-    "static/js/3.8611b501.chunk.js.map": "/Porfolio_React/static/js/3.8611b501.chunk.js.map",
+    "main.css": "/Porfolio_React/static/css/main.bbd09e40.chunk.css",
+    "main.js": "/Porfolio_React/static/js/main.b4277c03.chunk.js",
+    "main.js.map": "/Porfolio_React/static/js/main.b4277c03.chunk.js.map",
+    "runtime-main.js": "/Porfolio_React/static/js/runtime-main.9882df24.js",
+    "runtime-main.js.map": "/Porfolio_React/static/js/runtime-main.9882df24.js.map",
+    "static/js/2.d1a550fb.chunk.js": "/Porfolio_React/static/js/2.d1a550fb.chunk.js",
+    "static/js/2.d1a550fb.chunk.js.map": "/Porfolio_React/static/js/2.d1a550fb.chunk.js.map",
     "index.html": "/Porfolio_React/index.html",
-    "static/css/main.6e979053.chunk.css.map": "/Porfolio_React/static/css/main.6e979053.chunk.css.map",
-    "static/js/2.3f342446.chunk.js.LICENSE.txt": "/Porfolio_React/static/js/2.3f342446.chunk.js.LICENSE.txt"
+    "static/css/main.bbd09e40.chunk.css.map": "/Porfolio_React/static/css/main.bbd09e40.chunk.css.map",
+    "static/js/2.d1a550fb.chunk.js.LICENSE.txt": "/Porfolio_React/static/js/2.d1a550fb.chunk.js.LICENSE.txt",
+    "static/media/app.c5d3c88c.jpg": "/Porfolio_React/static/media/app.c5d3c88c.jpg",
+    "static/media/cara.8ddcbd7d.png": "/Porfolio_React/static/media/cara.8ddcbd7d.png",
+    "static/media/glezartt.87e03f9d.png": "/Porfolio_React/static/media/glezartt.87e03f9d.png",
+    "static/media/leurovisiu.40426704.jpg": "/Porfolio_React/static/media/leurovisiu.40426704.jpg",
+    "static/media/pelo.8e46750a.png": "/Porfolio_React/static/media/pelo.8e46750a.png",
+    "static/media/workout.2ccf0636.jpg": "/Porfolio_React/static/media/workout.2ccf0636.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e4a4b102.js",
-    "static/js/2.3f342446.chunk.js",
-    "static/css/main.6e979053.chunk.css",
-    "static/js/main.d03baf29.chunk.js"
+    "static/js/runtime-main.9882df24.js",
+    "static/js/2.d1a550fb.chunk.js",
+    "static/css/main.bbd09e40.chunk.css",
+    "static/js/main.b4277c03.chunk.js"
   ]
 }
