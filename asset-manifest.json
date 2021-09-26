@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Porfolio_React/static/css/main.bbd09e40.chunk.css",
-    "main.js": "/Porfolio_React/static/js/main.fceccd0a.chunk.js",
-    "main.js.map": "/Porfolio_React/static/js/main.fceccd0a.chunk.js.map",
+    "main.css": "/Porfolio_React/static/css/main.34c2b493.chunk.css",
+    "main.js": "/Porfolio_React/static/js/main.8654d30f.chunk.js",
+    "main.js.map": "/Porfolio_React/static/js/main.8654d30f.chunk.js.map",
     "runtime-main.js": "/Porfolio_React/static/js/runtime-main.9882df24.js",
     "runtime-main.js.map": "/Porfolio_React/static/js/runtime-main.9882df24.js.map",
-    "static/js/2.8a8309b3.chunk.js": "/Porfolio_React/static/js/2.8a8309b3.chunk.js",
-    "static/js/2.8a8309b3.chunk.js.map": "/Porfolio_React/static/js/2.8a8309b3.chunk.js.map",
+    "static/js/2.02605983.chunk.js": "/Porfolio_React/static/js/2.02605983.chunk.js",
+    "static/js/2.02605983.chunk.js.map": "/Porfolio_React/static/js/2.02605983.chunk.js.map",
     "index.html": "/Porfolio_React/index.html",
-    "static/css/main.bbd09e40.chunk.css.map": "/Porfolio_React/static/css/main.bbd09e40.chunk.css.map",
-    "static/js/2.8a8309b3.chunk.js.LICENSE.txt": "/Porfolio_React/static/js/2.8a8309b3.chunk.js.LICENSE.txt",
+    "static/css/main.34c2b493.chunk.css.map": "/Porfolio_React/static/css/main.34c2b493.chunk.css.map",
+    "static/js/2.02605983.chunk.js.LICENSE.txt": "/Porfolio_React/static/js/2.02605983.chunk.js.LICENSE.txt",
     "static/media/altaguardia.53bd3f32.jpg": "/Porfolio_React/static/media/altaguardia.53bd3f32.jpg",
-    "static/media/cara.8ddcbd7d.png": "/Porfolio_React/static/media/cara.8ddcbd7d.png",
+    "static/media/cara.87fa49a3.png": "/Porfolio_React/static/media/cara.87fa49a3.png",
     "static/media/leurovisiu.40426704.jpg": "/Porfolio_React/static/media/leurovisiu.40426704.jpg",
-    "static/media/pelo.8e46750a.png": "/Porfolio_React/static/media/pelo.8e46750a.png",
+    "static/media/pelo.8406c0a4.png": "/Porfolio_React/static/media/pelo.8406c0a4.png",
     "static/media/workout.2ccf0636.jpg": "/Porfolio_React/static/media/workout.2ccf0636.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9882df24.js",
-    "static/js/2.8a8309b3.chunk.js",
-    "static/css/main.bbd09e40.chunk.css",
-    "static/js/main.fceccd0a.chunk.js"
+    "static/js/2.02605983.chunk.js",
+    "static/css/main.34c2b493.chunk.css",
+    "static/js/main.8654d30f.chunk.js"
   ]
 }
